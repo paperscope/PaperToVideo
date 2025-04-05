@@ -2,6 +2,7 @@
 
 本项目为 https://www.paperscope.ai/ 的子项目，探索由 Paper 生成介绍视频的 AI 工作流
 
+案例生成视频：https://www.bilibili.com/video/BV1q3RoYPEtd/
 
 所用涉及工具：Cursor、Claude3.7
 
