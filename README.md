@@ -2,6 +2,10 @@
 
 ![image](https://github.com/user-attachments/assets/fb5d71eb-eaf7-4b9b-ba3d-590c4adb5849)
 
+<p align="center">
+    👋 join us on   <a href="https://cdn.vansin.top/paperscope.jpg" target="_blank">WeChat</a>
+</p>
+
 
 本项目为 https://www.paperscope.ai/ 的子项目，探索由 Paper 生成介绍视频的 AI 工作流，期待社区小伙伴们一起加入，探索一个能生成 80 分论文介绍视频的 AI PipeLine。
 
