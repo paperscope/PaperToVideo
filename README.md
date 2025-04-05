@@ -1,10 +1,12 @@
 # PaperToVideo
 
-探索由 Paper 生成介绍视频的 AI 工作流
+本项目为 https://www.paperscope.ai/ 的子项目，探索由 Paper 生成介绍视频的 AI 工作流
 
 
+所用涉及工具：Cursor、Claude3.7
 
-## 部分提示词
+
+## 提示词
 
 ```text
 
@@ -49,7 +51,5 @@ with client.audio.speech.with_streaming_response.create(
     response.stream_to_file(speech_file_path)
 
 
-
-```
 
 ```
