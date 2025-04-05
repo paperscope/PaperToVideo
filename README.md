@@ -1,6 +1,6 @@
 # PaperToVideo
 
-本项目为 https://www.paperscope.ai/ 的子项目，探索由 Paper 生成介绍视频的 AI 工作流
+本项目为 https://www.paperscope.ai/ 的子项目，探索由 Paper 生成介绍视频的 AI 工作流，期待社区小伙伴们一起加入，探索一个能生成 80 分论文介绍视频的 AI PipeLine。
 
 案例生成视频：https://www.bilibili.com/video/BV1q3RoYPEtd/
 
